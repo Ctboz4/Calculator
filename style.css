@@ -51,7 +51,11 @@ border: solid 4px black; /* Corrected border syntax */
 }
 
 button{border-radius:75%;
-    
-    width: 70px;
-  height: 70px;}
+    color: #6EACDA;
+    background-color: black;
+    padding: 10px;
+    margin: 4px;
+    border: none;
+    width: 60px;
+  height: 60px;}
 
